@@ -8,7 +8,7 @@ The family includes a standard style with an additional bold weight, suitable fo
 Created by [Alta Technologies](https://altatechnologies.com/), this is a tribute to the new, used and refurbished servers that we’ve been buying and selling to clients globally since 1995. Alta is the leading dealer of excess server equipment in North America.
 
 # Download
-Download the project and find the OpenType font files in the fonts/otf directory.
+[Download](https://github.com/Alta-Technologies/used-servers-font/archive/master.zip) the project and find the OpenType font files in the fonts/otf directory.
 
 # License
 The font may be used for full personal or commercial use, we only ask that you provide a reference back to our company website, if you choose to use it.  https://www.altatechnologies.com
